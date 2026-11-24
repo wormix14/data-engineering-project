@@ -28,4 +28,4 @@ It shows transformation through layers : bronze → silver → gold
 * Created dashboards using tools in  MS Fabric
 [Dashboards](dashboards/Dashboards.pdf)
 * Created a data quality checker 
-  [telegram bot](data-quality-checker)
+  [telegram bot](https://github.com/wormix14/data-quality-checker)
