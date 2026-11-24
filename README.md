@@ -27,5 +27,5 @@ It shows transformation through layers : bronze → silver → gold
 ## Dashboards & Data Quality
 * Created dashboards using tools in  MS Fabric
 [Dashboards](dashboards/Dashboards.pdf)
-* Created a data quality checker 
-  [telegram bot](https://github.com/wormix14/data-quality-checker)
+* Created a data quality checker
+ [telegram bot](https://github.com/wormix14/data-quality-checker)
