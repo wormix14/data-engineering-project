@@ -29,3 +29,6 @@ It shows transformation through layers : bronze → silver → gold
 [Dashboards](dashboards/Dashboards.pdf)
 * Created a data quality checker
  [telegram bot](https://github.com/wormix14/data-quality-checker)
+
+## Automated pipeline
+* [automated pipeline](https://github.com/wormix14/air-quality-timeseries-pipeline)
